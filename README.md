@@ -3,7 +3,7 @@ Brunch with Phaser 3 (TypeScript)
 
 A [Brunch](http://brunch.io) skeleton for making games with [Phaser 3](http://phaser.io/phaser3) and [TypeScript][3]. ([Why Brunch?](http://brunch.io/docs/why-brunch))
 
-    brunch new <project> -s samme/brunch-phaser-typescript
+    brunch new <project> -s mrvictordiaz/brunch-phaser-typescript
 
 Get started
 -----------
@@ -12,7 +12,7 @@ Get started
   - [Node.js](https://nodejs.org)
   - [Brunch](http://brunch.io): `npm install -g brunch`
 - Run:
-  - `brunch new <project> -s samme/brunch-phaser-typescript`
+  - `brunch new <project> -s mrvictordiaz/brunch-phaser-typescript`
   - `npm run start` or `brunch watch --server` watches the project with continuous rebuild.
   - `npm run build` or `brunch build --production` builds a minified project for production.
 - Make:
